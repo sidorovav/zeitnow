@@ -1,0 +1,25 @@
+{
+  "name": "zeitnow",
+  "version": "1.0.0",
+  "description": "first express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sidorovav/zeitnow.git"
+  },
+  "author": "Alexandr Sidorov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidorovav/zeitnow/issues"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "homepage": "https://github.com/sidorovav/zeitnow#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
